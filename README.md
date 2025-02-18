@@ -1,6 +1,6 @@
 # K-Means Clustering Implementation in Python and C
 
-This repository contains an implementation of the K-Means clustering algorithm, leveraging both Python and C for optimized performance.
+This repository contains an implementation of the K-Means clustering algorithm, leveraging both Python and C for optimized performance. This was built during university studies in a C & Python data analysis course. 
 
 ## Overview
 - **Python Implementation**: Handles data processing and initialization using K-Means++.
